@@ -5,8 +5,8 @@ out/
 .idea/*
 !.idea/libraries/
 !.idea/artifacts/
-!.idea/*.iml
 !.idea/misc.xml
+!.idea/modules.xml
 
 ### Eclipse ###
 .apt_generated
